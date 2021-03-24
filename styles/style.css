@@ -1,0 +1,21 @@
+html, body, h1 {
+    margin : 0;
+    font-family : Open Sans;
+}
+
+header {
+    margin : 0;
+    background-color: darkgreen;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    border: 0px;
+    border-bottom: 1px;
+    border-style : solid;
+}
+
+h1 {
+    font-size: 34px;
+    padding-top : 10px;
+    height : 40px;
+}
